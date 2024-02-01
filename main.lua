@@ -10,3 +10,5 @@ function love.draw()
     love.graphics.setBackgroundColor( red, green, blue, alpha)
 end
 
+-- COMMENT FOR TEST
+
