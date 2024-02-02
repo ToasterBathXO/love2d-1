@@ -26,6 +26,6 @@ end
 
 -- Ground
 function love.draw()
-    love.graphics("fill", 500, 0, 100, 50)
+    love.graphics.rectangle("fill", 0, 300, 1200, 100)
 
 end

@@ -6,5 +6,5 @@ function love.conf(t)
     t.gammacorrect = true
     t.window.title = "Love2dTestGame"
     t.window.width = 1200
-    t.window.height = 600
+    t.window.height = 400
 end
